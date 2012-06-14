@@ -1,0 +1,5 @@
+This is a simple web bot to post Pune weather on twitter.
+
+It makes use of a simple wrapper called 'pywapi' or python weather api. You can find more information about this wrapper on its home page - http://code.google.com/p/python-weather-api/
+
+You also need tweepy library to communicate with twitter. 
